@@ -1,0 +1,11 @@
+Touchscreen
+
+Current touchscreens have mostly a recognicable delay for input. Also object recognition would be nice
+
+Basic Concept:
+Camera on a tranclucent panel, trigometrie with infrared or rgb.
+
+
+Restrictions:
+Light is tricky for recognicion, Sunnlight or Bright lamps could interduce false output.
+Bringing a Image on the touchscreen could interduce errors because light is input
