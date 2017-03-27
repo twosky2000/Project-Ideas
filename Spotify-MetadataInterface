@@ -1,0 +1,7 @@
+Spotify-MetadataInterface
+
+Concept:
+Spotify already has the metadate to it's tracks. For Dancing and Playlist creation it would be good to have accses to this information and filter by it.
+
+Restrictions:
+To call the spotify api you have to have a Webserver whitch redirects traffic
