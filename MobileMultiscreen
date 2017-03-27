@@ -1,0 +1,10 @@
+MobileMultiscreen
+
+Basic Concept:
+Connect Mobilephones to a http server and send out information for coloring the screen dependend on location.
+This should create a massive screen for concerts or gatherings of peoples.
+
+Restrictions:
+Handeling thousend of connections needs a reliable, minimal overhead comunication.
+Possisioning is hard, gps and wlan triangulation are unrelaaiable. Image scan or manual configuration could be a solution.
+Have all the devices insync will be difficult
